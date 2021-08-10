@@ -31,7 +31,6 @@ import {
   CandleStreamingMetaParams,
   StreamingError,
 } from './types';
-import { URLSearchParams } from 'url';
 import Streaming from './Streaming';
 
 export * from './types';
